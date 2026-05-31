@@ -1,2 +1,1 @@
-# tgs2401.github.io
-uhhhhhhh idk
+trying to figure out how to do a website thing
